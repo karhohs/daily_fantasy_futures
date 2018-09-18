@@ -1,0 +1,1 @@
+I copy and paste http://www.espn.com/nfl/lines every week to get nfl lines.

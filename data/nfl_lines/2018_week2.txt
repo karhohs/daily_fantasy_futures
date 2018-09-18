@@ -1,0 +1,754 @@
+Baltimore at Cincinnati - Thu, Sep 13, 8:20 PM ET (102)
+ 	POINT SPREAD	TOTAL	MONEY LINE
+Westgate	
+-1
++1	BAL: -110
+CIN: -110
+44 O/U	o: -110
+u: -110
+BAL: -115
+CIN: -105
+Caesar's	EVEN	
+43.5 O/U	o: -110
+u: -110
+BAL: 0
+CIN: 0
+William Hill	
++1
+-1	BAL: 0
+CIN: 0
+44 O/U	o: -110
+u: -110
+BAL: -110
+CIN: -110
+Wynn	
++1
+-1	BAL: 0
+CIN: 0
+44 O/U	o: -110
+u: -110
+BAL: 0
+CIN: 0
+CG Technology	
++1
+-1	BAL: 0
+CIN: 0
+43.5 O/U	o: -110
+u: -110
+BAL: -110
+CIN: -110
+Unibet	
+-1.5
++1.5	BAL: 106
+CIN: -128
+43.5 O/U	o: -114
+u: -106
+BAL: -106
+CIN: -114
+PickCenter  »
+
+Carolina at Atlanta - Sun, Sep 16, 1:00 PM ET (264)
+ 	POINT SPREAD	TOTAL	MONEY LINE
+Westgate	
++5.5
+-5.5	CAR: -110
+ATL: -110
+44.5 O/U	o: -110
+u: -110
+CAR: +200
+ATL: -250
+Caesar's	
++5.5
+-5.5	CAR: -110
+ATL: -110
+44 O/U	o: -110
+u: -110
+CAR: 0
+ATL: 0
+William Hill	
++5.5
+-5.5	CAR: -110
+ATL: -110
+44 O/U	o: -110
+u: -110
+CAR: +200
+ATL: -240
+Wynn	
++5.5
+-5.5	CAR: -110
+ATL: -110
+44 O/U	o: -110
+u: -110
+CAR: 0
+ATL: 0
+CG Technology	
++5.5
+-5.5	CAR: -110
+ATL: -110
+44 O/U	o: -110
+u: -110
+CAR: +200
+ATL: -240
+Unibet	
++6
+-6	CAR: -110
+ATL: -110
+44.5 O/U	o: -110
+u: -110
+CAR: +200
+ATL: -250
+PickCenter  »
+
+Indianapolis at Washington - Sun, Sep 16, 1:00 PM ET (262)
+ 	POINT SPREAD	TOTAL	MONEY LINE
+Westgate	
++6
+-6	IND: -110
+WSH: -110
+45.5 O/U	o: -110
+u: -110
+IND: +210
+WSH: -260
+Caesar's	
++5.5
+-5.5	IND: -110
+WSH: -110
+45 O/U	o: -110
+u: -110
+IND: 0
+WSH: 0
+William Hill	
++5.5
+-5.5	IND: -110
+WSH: -110
+45.5 O/U	o: -110
+u: -110
+IND: +200
+WSH: -240
+Wynn	
++5.5
+-5.5	IND: -110
+WSH: -110
+45.5 O/U	o: -110
+u: -110
+IND: 0
+WSH: 0
+CG Technology	
++5.5
+-5.5	IND: -110
+WSH: -110
+46 O/U	o: -110
+u: -110
+IND: +200
+WSH: -240
+Unibet	
++5.5
+-5.5	IND: -106
+WSH: -114
+45.5 O/U	o: -110
+u: -110
+IND: +195
+WSH: -244
+PickCenter  »
+
+Houston at Tennessee - Sun, Sep 16, 1:00 PM ET
+ 	POINT SPREAD	TOTAL	MONEY LINE
+Westgate	N/A	N/A	N/A
+Caesar's	N/A	N/A	N/A
+William Hill	N/A	N/A	N/A
+Wynn	N/A	N/A	N/A
+CG Technology	N/A	N/A	N/A
+Unibet	
++1
+-1	HOU: 0
+TEN: 0
+N/A	N/A
+PickCenter  »
+
+Philadelphia at Tampa Bay - Sun, Sep 16, 1:00 PM ET (276)
+ 	POINT SPREAD	TOTAL	MONEY LINE
+Westgate	
+-3
++3	PHI: -120
+TB: 100
+43.5 O/U	o: -110
+u: -110
+PHI: -180
+TB: +150
+Caesar's	
+-3
++3	PHI: -120
+TB: 100
+43.5 O/U	o: -110
+u: -110
+PHI: 0
+TB: 0
+William Hill	
+-3
++3	PHI: -120
+TB: 100
+44 O/U	o: -110
+u: -110
+PHI: -170
+TB: +150
+Wynn	
+-3
++3	PHI: -120
+TB: 100
+44 O/U	o: -110
+u: -110
+PHI: 0
+TB: 0
+CG Technology	
+-3
++3	PHI: -115
+TB: -105
+44 O/U	o: -110
+u: -110
+PHI: -165
+TB: +145
+Unibet	
+-3.5
++3.5	PHI: -108
+TB: -112
+44 O/U	o: -110
+u: -110
+PHI: -175
+TB: +143
+PickCenter  »
+
+Kansas City at Pittsburgh - Sun, Sep 16, 1:00 PM ET (272)
+ 	POINT SPREAD	TOTAL	MONEY LINE
+Westgate	
++5
+-5	KC: -110
+PIT: -110
+52.5 O/U	o: -110
+u: -110
+KC: +190
+PIT: -240
+Caesar's	
++4.5
+-4.5	KC: -110
+PIT: -110
+52.5 O/U	o: -110
+u: -110
+KC: 0
+PIT: 0
+William Hill	
++5
+-5	KC: -110
+PIT: -110
+52.5 O/U	o: -110
+u: -110
+KC: +195
+PIT: -230
+Wynn	
++5
+-5	KC: -110
+PIT: -110
+53 O/U	o: -110
+u: -110
+KC: 0
+PIT: 0
+CG Technology	
++5
+-5	KC: -110
+PIT: -110
+52.5 O/U	o: -110
+u: -110
+KC: +185
+PIT: -220
+Unibet	
++5
+-5	KC: -110
+PIT: -110
+53 O/U	o: -110
+u: -110
+KC: +185
+PIT: -233
+PickCenter  »
+
+Miami at NY Jets - Sun, Sep 16, 1:00 PM ET (274)
+ 	POINT SPREAD	TOTAL	MONEY LINE
+Westgate	
++3
+-3	MIA: -120
+NYJ: 100
+44 O/U	o: -110
+u: -110
+MIA: +130
+NYJ: -150
+Caesar's	
++3
+-3	MIA: -120
+NYJ: 100
+44 O/U	o: -110
+u: -110
+MIA: 0
+NYJ: 0
+William Hill	
++3
+-3	MIA: -120
+NYJ: 100
+44 O/U	o: -110
+u: -110
+MIA: +135
+NYJ: -155
+Wynn	
++2.5
+-2.5	MIA: -105
+NYJ: -115
+44 O/U	o: -110
+u: -110
+MIA: 0
+NYJ: 0
+CG Technology	N/A	N/A	N/A
+Unibet	
++2.5
+-2.5	MIA: -106
+NYJ: -114
+44 O/U	o: -110
+u: -110
+MIA: +125
+NYJ: -152
+PickCenter  »
+
+LA Chargers at Buffalo - Sun, Sep 16, 1:00 PM ET (268)
+ 	POINT SPREAD	TOTAL	MONEY LINE
+Westgate	
+-7.5
++7.5	LAC: 100
+BUF: -120
+43 O/U	o: -110
+u: -110
+LAC: -330
+BUF: +260
+Caesar's	
+-7.5
++7.5	LAC: 100
+BUF: -120
+43 O/U	o: -110
+u: -110
+LAC: 0
+BUF: 0
+William Hill	
+-7
++7	LAC: -120
+BUF: 100
+43.5 O/U	o: -110
+u: -110
+LAC: -340
+BUF: +280
+Wynn	
+-7.5
++7.5	LAC: 100
+BUF: -120
+43.5 O/U	o: -110
+u: -110
+LAC: 0
+BUF: 0
+CG Technology	
+-7
++7	LAC: -110
+BUF: -110
+43.5 O/U	o: -110
+u: -110
+LAC: -320
+BUF: +260
+Unibet	
+-7
++7	LAC: -111
+BUF: -109
+43 O/U	o: -110
+u: -110
+LAC: -312
+BUF: +240
+PickCenter  »
+
+Minnesota at Green Bay - Sun, Sep 16, 1:00 PM ET (266)
+ 	POINT SPREAD	TOTAL	MONEY LINE
+Westgate	
++1
+-1	MIN: 0
+GB: 0
+N/A	N/A
+Caesar's	
++1
+-1	MIN: 0
+GB: 0
+N/A	N/A
+William Hill	
++1
+-1	MIN: 0
+GB: 0
+N/A	N/A
+Wynn	
++1
+-1	MIN: 0
+GB: 0
+N/A	N/A
+CG Technology	
+-2
++2	MIN: -110
+GB: -110
+45 O/U	o: -110
+u: -110
+MIN: -140
+GB: +120
+Unibet	N/A	N/A	N/A
+PickCenter  »
+
+Cleveland at New Orleans - Sun, Sep 16, 1:00 PM ET (278)
+ 	POINT SPREAD	TOTAL	MONEY LINE
+Westgate	
++9
+-9	CLE: -110
+NO: -110
+49 O/U	o: -110
+u: -110
+CLE: +350
+NO: -450
+Caesar's	
++8.5
+-8.5	CLE: -110
+NO: -110
+49.5 O/U	o: -110
+u: -110
+CLE: 0
+NO: 0
+William Hill	
++8.5
+-8.5	CLE: -110
+NO: -110
+50 O/U	o: -110
+u: -110
+CLE: +340
+NO: -420
+Wynn	
++9.5
+-9.5	CLE: -110
+NO: -110
+49.5 O/U	o: -110
+u: -110
+CLE: 0
+NO: 0
+CG Technology	
++9
+-9	CLE: -120
+NO: 100
+50 O/U	o: -110
+u: -110
+CLE: +320
+NO: -400
+Unibet	
++9.5
+-9.5	CLE: -109
+NO: -111
+49 O/U	o: -109
+u: -111
+CLE: +300
+NO: -400
+PickCenter  »
+
+Detroit at San Francisco - Sun, Sep 16, 4:05 PM ET (282)
+ 	POINT SPREAD	TOTAL	MONEY LINE
+Westgate	
++5.5
+-5.5	DET: -110
+SF: -110
+47.5 O/U	o: -110
+u: -110
+DET: +200
+SF: -250
+Caesar's	
++5.5
+-5.5	DET: -110
+SF: -110
+47.5 O/U	o: -110
+u: -110
+DET: 0
+SF: 0
+William Hill	
++5.5
+-5.5	DET: -110
+SF: -110
+47.5 O/U	o: -110
+u: -110
+DET: +210
+SF: -250
+Wynn	
++6
+-6	DET: -110
+SF: -110
+47.5 O/U	o: -110
+u: -110
+DET: 0
+SF: 0
+CG Technology	
++3.5
+-3.5	DET: -110
+SF: -110
+N/A	N/A
+Unibet	
++5.5
+-5.5	DET: -110
+SF: -110
+47.5 O/U	o: -110
+u: -110
+DET: +180
+SF: -222
+PickCenter  »
+
+Arizona at LA Rams - Sun, Sep 16, 4:05 PM ET (280)
+ 	POINT SPREAD	TOTAL	MONEY LINE
+Westgate	
++12.5
+-12.5	ARI: -110
+LAR: -110
+45.5 O/U	o: -110
+u: -110
+ARI: +700
+LAR: -1100
+Caesar's	
++12.5
+-12.5	ARI: -110
+LAR: -110
+45.5 O/U	o: -110
+u: -110
+ARI: 0
+LAR: 0
+William Hill	
++12.5
+-12.5	ARI: -110
+LAR: -110
+46.5 O/U	o: -110
+u: -110
+ARI: +650
+LAR: -1000
+Wynn	
++12
+-12	ARI: -110
+LAR: -110
+46.5 O/U	o: -110
+u: -110
+ARI: 0
+LAR: 0
+CG Technology	
++10.5
+-10.5	ARI: -110
+LAR: -110
+N/A	N/A
+Unibet	
++12
+-12	ARI: -110
+LAR: -110
+45 O/U	o: -110
+u: -109
+ARI: +460
+LAR: -667
+PickCenter  »
+
+New England at Jacksonville - Sun, Sep 16, 4:25 PM ET (284)
+ 	POINT SPREAD	TOTAL	MONEY LINE
+Westgate	
+-2
++2	NE: -110
+JAX: -110
+45 O/U	o: -110
+u: -110
+NE: -130
+JAX: +110
+Caesar's	
+-2.5
++2.5	NE: -110
+JAX: -110
+45 O/U	o: -110
+u: -110
+NE: 0
+JAX: 0
+William Hill	
+-2
++2	NE: -110
+JAX: -110
+45 O/U	o: -110
+u: -110
+NE: -135
+JAX: +115
+Wynn	
+-2.5
++2.5	NE: -110
+JAX: -110
+45.5 O/U	o: -110
+u: -110
+NE: 0
+JAX: 0
+CG Technology	
+-1.5
++1.5	NE: -110
+JAX: -110
+45 O/U	o: -110
+u: -110
+NE: -125
+JAX: +105
+Unibet	
+-2
++2	NE: -110
+JAX: -110
+45 O/U	o: -110
+u: -110
+NE: -135
+JAX: +110
+PickCenter  »
+
+Oakland at Denver - Sun, Sep 16, 4:25 PM ET (286)
+ 	POINT SPREAD	TOTAL	MONEY LINE
+Westgate	
++5.5
+-5.5	OAK: -110
+DEN: -110
+46 O/U	o: -110
+u: -110
+OAK: +210
+DEN: -260
+Caesar's	
++5.5
+-5.5	OAK: -110
+DEN: -110
+46 O/U	o: -110
+u: -110
+OAK: 0
+DEN: 0
+William Hill	
++5.5
+-5.5	OAK: -110
+DEN: -110
+45.5 O/U	o: -110
+u: -110
+OAK: +210
+DEN: -250
+Wynn	
++5.5
+-5.5	OAK: -110
+DEN: -110
+45.5 O/U	o: -110
+u: -110
+OAK: 0
+DEN: 0
+CG Technology	
++4
+-4	OAK: -110
+DEN: -110
+N/A	N/A
+Unibet	
++5.5
+-5.5	OAK: -110
+DEN: -110
+45 O/U	o: -110
+u: -110
+OAK: +170
+DEN: -217
+PickCenter  »
+
+NY Giants at Dallas - Sun, Sep 16, 8:20 PM ET (288)
+ 	POINT SPREAD	TOTAL	MONEY LINE
+Westgate	
++3
+-3	NYG: -120
+DAL: 100
+42 O/U	o: -110
+u: -110
+NYG: +130
+DAL: -150
+Caesar's	
++3
+-3	NYG: -110
+DAL: -110
+42.5 O/U	o: -110
+u: -110
+NYG: 0
+DAL: 0
+William Hill	
++3
+-3	NYG: -110
+DAL: -110
+42.5 O/U	o: -110
+u: -110
+NYG: +130
+DAL: -150
+Wynn	
++3
+-3	NYG: -110
+DAL: -110
+42.5 O/U	o: -110
+u: -110
+NYG: 0
+DAL: 0
+CG Technology	
++3
+-3	NYG: -110
+DAL: -110
+42.5 O/U	o: -110
+u: -110
+NYG: +140
+DAL: -160
+Unibet	
++3
+-3	NYG: -110
+DAL: -110
+42 O/U	o: -110
+u: -110
+NYG: +132
+DAL: -161
+PickCenter  »
+
+Seattle at Bears - Mon, Sep 17, 8:15 PM ET (290)
+ 	POINT SPREAD	TOTAL	MONEY LINE
+Westgate	
++3.5
+-3.5	SEA: -110
+CHI: -110
+43.5 O/U	o: -110
+u: -110
+SEA: +155
+CHI: -185
+Caesar's	
++3
+-3	SEA: 100
+CHI: -120
+43 O/U	o: -110
+u: -110
+SEA: 0
+CHI: 0
+William Hill	
++3
+-3	SEA: 100
+CHI: -120
+43.5 O/U	o: -110
+u: -110
+SEA: +150
+CHI: -170
+Wynn	
++3
+-3	SEA: 100
+CHI: -120
+43 O/U	o: -110
+u: -110
+SEA: 0
+CHI: 0
+CG Technology	
++3
+-3	SEA: 100
+CHI: -120
+43.5 O/U	o: -110
+u: -110
+SEA: +150
+CHI: -170
+Unibet	
++3.5
+-3.5	SEA: -114
+CHI: -106
+43.5 O/U	o: -105
+u: -115
+SEA: +148
+CHI: -182
